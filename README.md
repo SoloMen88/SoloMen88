@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет 👋, меня зовут Станислав, я начинающий Python разработчик. Пока тут большинство проектов учебные, 
 
 <!--
 **SoloMen88/SoloMen88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
